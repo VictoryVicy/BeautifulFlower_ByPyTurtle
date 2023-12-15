@@ -1,2 +1,6 @@
 # Beautiful rainbow flower with Python Turtle
-# You have a girlfriend but you don't have money for buy her a beautiful flower? Calm bro, i have this for you
+# How to run this code?
+1. You must have software to run this code like VSCode
+2. You must install python extension on your VSCode
+3. Install pyturtle on your library
+4. Run and see the result
